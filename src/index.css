@@ -1,0 +1,10 @@
+@import "tailwindcss";
+.bg-grid {
+    background-size: 240px 40px;
+    opacity: 0.1;
+    z-index: -10;
+  background-image:
+    linear-gradient(to right, grey 1px, transparent 1px),
+    linear-gradient(to bottom, grey 1px, transparent 1px);
+  }
+  
